@@ -1,0 +1,17 @@
+{
+    "name": "wallpoet-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Lars Berggren"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/wallpoet-bower.git"
+    },
+    "description": "Wallpoet font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
